@@ -1,0 +1,4 @@
+* Materia
+* Nombre de equipo
+* Participantes
+* Nombre-Estudiante-creador-del-archivo
